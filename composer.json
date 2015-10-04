@@ -1,0 +1,17 @@
+{
+    "name": "renatotavares/curl",
+    "description": "Biblioteca cURL simples e leve, objetivada para facilitar integração com API's",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Renato Tavares",
+            "email": "dr.renatotavares@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.3.0",
+        "ext-curl": "*"
+    }
+}
