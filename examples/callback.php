@@ -1,6 +1,4 @@
-<?php require_once('../src/Curl/Curl.php');
-
-use Request\Curl;
+<?php require_once('../src/Curl.php');
 
 $curl = new Curl;
 $curl->get('http://httpbin.org/get', ['q'=> 'curl', 'v'=> '1.0'], 'printResult');

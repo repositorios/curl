@@ -1,6 +1,4 @@
-<?php require_once('../src/Curl/Curl.php');
-
-use Request\Curl;
+<?php require_once('../src/Curl.php');
 
 $fp = fopen('pytty.exe', 'wb');
 

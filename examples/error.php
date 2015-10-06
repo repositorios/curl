@@ -1,6 +1,4 @@
-<?php require_once('../src/Curl/Curl.php');
-
-use Request\Curl;
+<?php require_once('../src/Curl.php');
 
 $curl = new Curl;
 $result = $curl->get('http://httpbin.'); # Força um erro

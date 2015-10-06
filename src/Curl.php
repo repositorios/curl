@@ -1,7 +1,5 @@
 <?php 
 
-namespace Request;
-
 /**
  * Biblioteca cURL simples e leve, objetivada para facilitar integração com API's
  *
