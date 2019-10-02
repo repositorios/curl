@@ -1,7 +1,7 @@
 <?php 
 
 /**
- * Biblioteca cURL simples e leve, objetivada para facilitar integração com API's
+ * Biblioteca cURL simples e leve, objetivada para facilitar integração com APIs
  *
  * @package     Curl
  * @version     1.0.0
